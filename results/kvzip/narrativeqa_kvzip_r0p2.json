@@ -1,0 +1,11 @@
+{
+  "dataset": "narrativeqa",
+  "model_name": "Qwen/Qwen2.5-7B-Instruct-1M",
+  "ratio": 0.2,
+  "prefill_time_s": 2.559028387069702,
+  "prune_time_s": 0.17455172538757324,
+  "gen_time_s": 3.339771032333374,
+  "total_time_s": 6.073351144790649,
+  "peak_vram_mib": 16020.005859375,
+  "output_text": "The passage describes the author's experiences and reflections related to Frank Saltram, a controversial and influential figure, particularly in the context of his lectures and the reactions of various individuals, including the author's friends and acquaintances. Saltram is portrayed as a brilliant but unreliable speaker who fails to fulfill his commitments, especially regarding his wife, who is described as a deeply wronged and resentful woman. The author reflects on the nature of Saltram's genius, his vices, and the efforts of others to support him. The narrative also touches on the social dynamics and personal relationships surrounding Saltram, including interactions with George Gravener and the Mulvilles."
+}

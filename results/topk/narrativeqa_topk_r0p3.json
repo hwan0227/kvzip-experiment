@@ -1,0 +1,11 @@
+{
+  "dataset": "narrativeqa",
+  "model_path": "/shared/home/aif/models/hf/Qwen2.5-7B-Instruct",
+  "ratio": 0.3,
+  "original_input_tokens": 7629,
+  "kept_input_tokens": 2288,
+  "output_tokens": 128,
+  "latency_s": 4.268142223358154,
+  "peak_vram_mib": 14975.24951171875,
+  "output_text": " that he’s a bore,” he said, and I was glad to see that he was not going to be a bore to me.  I had no idea that he was going to be a bore to me, and I was glad to see that he wasn’t.  I had no idea that he was going to be a bore to me, and I was glad to see that he wasn’t.  I had no idea that he was going to be a bore to me, and I was glad to see that he wasn’t.  I had no idea that he was going to be a bore to me, and I was glad"
+}

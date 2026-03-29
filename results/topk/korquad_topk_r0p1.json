@@ -1,0 +1,11 @@
+{
+  "dataset": "korquad",
+  "model_path": "/shared/home/aif/models/hf/Qwen2.5-7B-Instruct",
+  "ratio": 0.1,
+  "original_input_tokens": 8234,
+  "kept_input_tokens": 823,
+  "output_tokens": 128,
+  "latency_s": 4.045196294784546,
+  "peak_vram_mib": 14694.080078125,
+  "output_text": "></a></li> <li><a><span>6.2.3</span> <span>Eurolines</span></a></li> </ul> </li> </ul> </li> <li><a><span>7</span> <span>결론</span></a></li> </ul> </div> <p>독일의 고속버스는 1950년대부터 운영되기 시작했으며, 1980년대 이후로 급격히 성장하였다. 현재는 주요 도시 간을 연결하는 �"
+}

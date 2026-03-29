@@ -1,0 +1,11 @@
+{
+  "dataset": "narrativeqa",
+  "model_path": "/shared/home/aif/models/hf/Qwen2.5-7B-Instruct",
+  "ratio": 0.8,
+  "original_input_tokens": 7629,
+  "kept_input_tokens": 6103,
+  "output_tokens": 128,
+  "latency_s": 4.419086933135986,
+  "peak_vram_mib": 15702.97314453125,
+  "output_text": " say he’s not a real gentleman because he’s not a gentleman at all.  He’s a scoundrel.”  “A scoundrel!”  “A scoundrel, and a scoundrel of the most extraordinary kind.  He’s a scoundrel who’s a genius, and a genius who’s a scoundrel.  He’s a scoundrel who’s a scoundrel, and a genius who’s a genius.  He’s a scoundrel who’s a genius, and a genius who’s a scoundrel.  He’s a scoundrel who’s a genius, and"
+}

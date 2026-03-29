@@ -1,0 +1,11 @@
+{
+  "dataset": "narrativeqa",
+  "model_path": "/shared/home/aif/models/hf/Qwen2.5-7B-Instruct",
+  "ratio": 0.2,
+  "original_input_tokens": 7629,
+  "kept_input_tokens": 1525,
+  "output_tokens": 128,
+  "latency_s": 4.281352996826172,
+  "peak_vram_mib": 14829.90576171875,
+  "output_text": " be told in a word.  He had been at Wimbledon, and he had seen Mr. Saltram, and he had been struck by him, and he had been struck by him so much that he had gone home and written a letter to his wife.  I had not seen him, but I had heard of him, and I had heard of him, as I have said, from Adelaide Mulville, who had told me that he was a man of genius, and that he was a man of genius, as I have said, in a way that made me feel that she was not speaking of him as she spoke of other"
+}

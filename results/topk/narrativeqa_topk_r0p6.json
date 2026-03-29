@@ -1,0 +1,11 @@
+{
+  "dataset": "narrativeqa",
+  "model_path": "/shared/home/aif/models/hf/Qwen2.5-7B-Instruct",
+  "ratio": 0.6,
+  "original_input_tokens": 7629,
+  "kept_input_tokens": 4577,
+  "output_tokens": 128,
+  "latency_s": 4.460437297821045,
+  "peak_vram_mib": 15414.17919921875,
+  "output_text": "ities.  I was in a state of mind to be grateful for any distraction, and I was not disappointed.  “I’m sorry to trouble you, sir, but I’m afraid I must ask you to tell me what Mr. Saltram is like.  I’ve come to hear him, and I’m afraid I’m rather disappointed.”  I was glad to see that she was a girl of the world, and I was glad to see that she was a girl of the world who had come to hear him.  I was glad to see that she was a girl of the world who had come to hear him, and"
+}

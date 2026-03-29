@@ -1,0 +1,11 @@
+{
+  "dataset": "korquad",
+  "model_path": "/shared/home/aif/models/hf/Qwen2.5-7B-Instruct",
+  "ratio": 0.2,
+  "original_input_tokens": 8234,
+  "kept_input_tokens": 1646,
+  "output_tokens": 128,
+  "latency_s": 4.143276214599609,
+  "peak_vram_mib": 14854.04638671875,
+  "output_text": "는 줄어들기 시작했다. 1970년대 이후부터는 <a>자동차</a>와 <a>철도</a>가 주요 교통수단으로 자리잡게 되었다. </p> <h2><span></span><span>현황</span><span><span>[</span><a>편집</a><span>]</span></span></h2> <p>현재 독일 내에서 운영되는 고속버스는 <a>Flixbus</a>, <a>Postbus</a>, <a"
+}

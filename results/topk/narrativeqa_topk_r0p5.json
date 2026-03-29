@@ -1,0 +1,11 @@
+{
+  "dataset": "narrativeqa",
+  "model_path": "/shared/home/aif/models/hf/Qwen2.5-7B-Instruct",
+  "ratio": 0.5,
+  "original_input_tokens": 7629,
+  "kept_input_tokens": 3814,
+  "output_tokens": 128,
+  "latency_s": 4.336003065109253,
+  "peak_vram_mib": 15264.34033203125,
+  "output_text": " and prove it to you.”  “I’m ready,” I answered, “and I’m sure I’ll be interested.”  “Well, then, I’ll begin by telling you that I’ve been in love with a woman for three years.”  “Oh, I see!  You’re going to tell me that you’ve been in love with a woman for three years, and that you’re not a real gentleman.”  “No, I’m not going to do that.  I’m going to tell you that I’ve been in love with a woman for three years, and that I’m a real gentleman.”  “"
+}

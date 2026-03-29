@@ -1,0 +1,11 @@
+{
+  "dataset": "korquad",
+  "model_path": "/shared/home/aif/models/hf/Qwen2.5-7B-Instruct",
+  "ratio": 0.7,
+  "original_input_tokens": 8234,
+  "kept_input_tokens": 5763,
+  "output_tokens": 128,
+  "latency_s": 4.53855299949646,
+  "peak_vram_mib": 15638.88720703125,
+  "output_text": "span>7.11</span> <span>노이브란덴부르크</span></a></li> <li><a><span>7.12</span> <span>뉴른베르크</span></a></li> <li><a><span>7.13</span> <span>슈투트카르트</span></a></li> </ul> </li> <li><a><span>8</span> <span>이용 방법</span></a></li> <li><a><span>9</span> <"
+}

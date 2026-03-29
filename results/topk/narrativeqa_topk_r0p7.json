@@ -1,0 +1,11 @@
+{
+  "dataset": "narrativeqa",
+  "model_path": "/shared/home/aif/models/hf/Qwen2.5-7B-Instruct",
+  "ratio": 0.7,
+  "original_input_tokens": 7629,
+  "kept_input_tokens": 5340,
+  "output_tokens": 128,
+  "latency_s": 4.416337728500366,
+  "peak_vram_mib": 15558.58056640625,
+  "output_text": " a great deal of nonsense was talked about him, but I was too late.  She had already gone on to say that she had heard that he was a great talker, and that she was rather disappointed.  “I don’t see why he should be,” she added, “when he’s so obviously a bore.”  I was tempted to say that she was a bore, but I refrained.  “I don’t see why he should be,” she repeated, “when he’s so obviously a bore.”  I was tempted to say that she was a bore, but I refrained.  “I don’t"
+}

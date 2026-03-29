@@ -1,0 +1,11 @@
+{
+  "dataset": "narrativeqa",
+  "model_name": "Qwen/Qwen2.5-7B-Instruct-1M",
+  "ratio": 0.9,
+  "prefill_time_s": 2.4575791358947754,
+  "prune_time_s": 0.17187070846557617,
+  "gen_time_s": 4.03116774559021,
+  "total_time_s": 6.6606175899505615,
+  "peak_vram_mib": 16020.005859375,
+  "output_text": "The passage is a literary excerpt from \"The Coxon Fund\" by Henry James, focusing on the narrator's reflections and interactions with various characters, particularly Frank Saltram, a controversial and influential figure. The narrator describes Saltram's impact on society, his eccentricities, and the mixed reactions he provokes. Saltram is described as a brilliant but unreliable individual, whose charm and intellect captivate some while others find him morally questionable. The narrator also discusses Saltram's relationship with his wife, Mrs. Saltram, and the complex dynamics within their social circle, including the narrator's friendship with Kent Mulville and his wife Adelaide. The passage touches on themes of social class, morality, and the nature of genius, exploring how these elements shape perceptions of Saltram and his influence."
+}

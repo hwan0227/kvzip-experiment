@@ -1,0 +1,11 @@
+{
+  "dataset": "narrativeqa",
+  "model_path": "/shared/home/aif/models/hf/Qwen2.5-7B-Instruct",
+  "ratio": 0.1,
+  "original_input_tokens": 7629,
+  "kept_input_tokens": 762,
+  "output_tokens": 128,
+  "latency_s": 4.233030796051025,
+  "peak_vram_mib": 14681.67236328125,
+  "output_text": " I have been in the habit of exaggerating the importance of the gift.  But it is a gift, and it is a gift of a kind that makes it possible to see in the man himself a sort of miracle.  I don’t know whether it is a gift of imagination, or of memory, or of fancy, or of invention, or of all these things together; but it is a gift that enables him to do things with words that no one else can do.  It is a gift that makes him a sort of poet, and it is a gift that makes him a sort of prophet.  And it is a"
+}

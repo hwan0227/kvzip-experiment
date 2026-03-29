@@ -1,0 +1,11 @@
+{
+  "dataset": "narrativeqa",
+  "model_path": "/shared/home/aif/models/hf/Qwen2.5-7B-Instruct",
+  "ratio": 0.4,
+  "original_input_tokens": 7629,
+  "kept_input_tokens": 3051,
+  "output_tokens": 128,
+  "latency_s": 4.34040904045105,
+  "peak_vram_mib": 15118.52001953125,
+  "output_text": ".”  “I’m afraid you’re right.  I’m afraid you’re right.  But I’m not going to be a party to his being made a fool of.”  “I’m not going to be a party to his being made a fool of either.  I’m not going to be a party to his being made a fool of, and I’m not going to be a party to his being made a fool of, and I’m not going to be a party to his being made a fool of, and I’m not going to be a party to his being made a fool of, and I’m not going"
+}

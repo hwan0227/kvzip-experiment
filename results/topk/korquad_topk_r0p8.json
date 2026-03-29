@@ -1,0 +1,11 @@
+{
+  "dataset": "korquad",
+  "model_path": "/shared/home/aif/models/hf/Qwen2.5-7B-Instruct",
+  "ratio": 0.8,
+  "original_input_tokens": 8234,
+  "kept_input_tokens": 6587,
+  "output_tokens": 128,
+  "latency_s": 4.4823033809661865,
+  "peak_vram_mib": 15796.478515625,
+  "output_text": "속버스를 이용할 기회를 박탈하는 것이 아니냐는 지적이 잇따르기 시작했다.<sup><a>[2]</a></sup><sup><a>[3]</a></sup> 결국 2012년 9월 14일 의회에서 <a>기독교민주당</a>, <a>자유민주당</a>, <a>사회민주당</a>, <a>기독교사회연합당</a> 그리고 <a>녹색당</a> 등이 법안을 개정하기"
+}

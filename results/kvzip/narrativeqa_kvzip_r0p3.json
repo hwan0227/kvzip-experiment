@@ -1,0 +1,11 @@
+{
+  "dataset": "narrativeqa",
+  "model_name": "Qwen/Qwen2.5-7B-Instruct-1M",
+  "ratio": 0.3,
+  "prefill_time_s": 2.3634538650512695,
+  "prune_time_s": 0.1734631061553955,
+  "gen_time_s": 4.546619892120361,
+  "total_time_s": 7.083536863327026,
+  "peak_vram_mib": 16020.005859375,
+  "output_text": "The passage is from a novel by Henry James titled \"The Coxon Fund.\" It describes the narrator's interactions with Frank Saltram, a controversial and influential figure, and his wife, Mrs. Saltram, who believes he has abandoned her. The narrator reflects on Saltram's charm, intellect, and the challenges he poses to those around him. Saltram is described as a brilliant talker but someone who lacks dignity and fails to follow through on commitments, particularly to his wife. The narrator also mentions his involvement in organizing lectures for Saltram, which sometimes fail due to Saltram's absences. Mrs. Saltram becomes upset when Saltram misses a lecture, and the narrator tries to reassure her and others about Saltram's importance. The passage touches on themes of social dynamics, loyalty, and the complexities of human relationships, especially in the context of a marriage and friendships."
+}

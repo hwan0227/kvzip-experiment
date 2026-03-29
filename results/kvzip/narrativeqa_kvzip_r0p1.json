@@ -1,0 +1,11 @@
+{
+  "dataset": "narrativeqa",
+  "model_name": "Qwen/Qwen2.5-7B-Instruct-1M",
+  "ratio": 0.1,
+  "prefill_time_s": 2.3630692958831787,
+  "prune_time_s": 0.18749094009399414,
+  "gen_time_s": 3.0895676612854004,
+  "total_time_s": 5.640127897262573,
+  "peak_vram_mib": 16020.005859375,
+  "output_text": "The context describes a conversation between characters, likely from a book or narrative, involving George Gravener and another individual discussing Frank Saltram. The conversation touches on Saltram's intellectual prowess, his eccentric behavior, and the challenges he faces, particularly in maintaining his reputation as a speaker and thinker. The setting seems to involve a lecture or academic environment. The narrator reflects on Saltram's \"splendid intellect\" and the impact of his actions on others, including his wife and a group of supporters. The discussion also hints at themes of admiration, criticism, and the nature of genius versus practicality."
+}

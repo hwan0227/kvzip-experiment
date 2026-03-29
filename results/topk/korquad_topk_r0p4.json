@@ -1,0 +1,11 @@
+{
+  "dataset": "korquad",
+  "model_path": "/shared/home/aif/models/hf/Qwen2.5-7B-Instruct",
+  "ratio": 0.4,
+  "original_input_tokens": 8234,
+  "kept_input_tokens": 3293,
+  "output_tokens": 128,
+  "latency_s": 4.342343807220459,
+  "peak_vram_mib": 15167.49755859375,
+  "output_text": ">1주일 동안 10시간 이상을 운전한 운전기사는 10시간 이상의 휴식을 취해야 한다.</li> <li>1주일 동안 10시간 이상을 운전한 운전기사는 1주일 동안 10시간 이상의 휴식을 취해야 한다.</li> <li>1주일 동안 10시간 이상을 운전한 운전기사는 1주일 동안 10시간 이상의 휴식을 취해야 한다.</li> <li>1"
+}

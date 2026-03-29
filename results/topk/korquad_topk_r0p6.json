@@ -1,0 +1,11 @@
+{
+  "dataset": "korquad",
+  "model_path": "/shared/home/aif/models/hf/Qwen2.5-7B-Instruct",
+  "ratio": 0.6,
+  "original_input_tokens": 8234,
+  "kept_input_tokens": 4940,
+  "output_tokens": 128,
+  "latency_s": 4.498463153839111,
+  "peak_vram_mib": 15480.39306640625,
+  "output_text": " <ul> <li><a><span>1</span> <span>역사</span></a></li> <li><a><span>2</span> <span>현황</span></a></li> <li><a><span>3</span> <span>관련 규정</span></a> <ul> <li><a><span>3.1</span> <span>승객 운송에 관한 법률</span></a></li> <li><a><span>3.2</span> <span>버스기사 근무 시간"
+}

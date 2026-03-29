@@ -1,0 +1,11 @@
+{
+  "dataset": "korquad",
+  "model_name": "Qwen/Qwen2.5-7B-Instruct-1M",
+  "ratio": 0.2,
+  "prefill_time_s": 2.691697120666504,
+  "prune_time_s": 0.18224191665649414,
+  "gen_time_s": 2.2439353466033936,
+  "total_time_s": 5.117874383926392,
+  "peak_vram_mib": 16108.25,
+  "output_text": "독일의 고속버스 시장은 2013년 관련 법률 개정 후 급속히 성장했으며, 낮은 가격, 편리성, 그리고 모바일 마케팅 덕분에 젊은 이용객이 증가했다. 현재 시장은 Flixbus, Postbus, Berlin Linien Bus 등 몇家公司"
+}

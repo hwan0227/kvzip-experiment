@@ -1,0 +1,9 @@
+{
+  "dataset": "narrativeqa",
+  "model_path": "/shared/home/aif/models/hf/Qwen2.5-7B-Instruct",
+  "input_tokens": 7629,
+  "output_tokens": 128,
+  "latency_s": 4.666813135147095,
+  "peak_vram_mib": 15992.59814453125,
+  "output_text": "The provided text is a excerpt from the novel \"The Coxon Fund\" by Henry James. Here's a brief summary:\n\n1. **Introduction**: The narrator reflects on meeting Frank Saltram, a charismatic and influential figure, during a dinner party hosted by the Mulvilles. Saltram is described as having a remarkable gift and a unique personality.\n\n2. **First Encounter**: The narrator and George Gravener discuss Saltram after the dinner. Gravener expresses skepticism about Saltram's authenticity, viewing him as a fraud created by the Mulvilles. The narrator disagrees, defending Saltram's value and potential.\n\n3. **"
+}

@@ -1,0 +1,11 @@
+{
+  "dataset": "korquad",
+  "model_path": "/shared/home/aif/models/hf/Qwen2.5-7B-Instruct",
+  "ratio": 0.9,
+  "original_input_tokens": 8234,
+  "kept_input_tokens": 7410,
+  "output_tokens": 128,
+  "latency_s": 4.716465473175049,
+  "peak_vram_mib": 15953.28173828125,
+  "output_text": " </p> <h2><span></span><span>관련 규정</span><span><span>[</span><a>편집</a><span>]</span></span></h2> <h3><span></span><span>승객 운송에 관한 법률</span><span><span>[</span><a>편집</a><span>]</span></span></h3> <p>승객 운송에 관한 법률(<span>Personenbeförderungsgesetz</span>, PBefG)은 2013년 개정 전까지 고"
+}

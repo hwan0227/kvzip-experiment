@@ -1,0 +1,11 @@
+{
+  "dataset": "korquad",
+  "model_path": "/shared/home/aif/models/hf/Qwen2.5-7B-Instruct",
+  "ratio": 1.0,
+  "original_input_tokens": 8234,
+  "kept_input_tokens": 8234,
+  "output_tokens": 128,
+  "latency_s": 4.907652854919434,
+  "peak_vram_mib": 16108.5439453125,
+  "output_text": "이 지문은 독일의 고속버스에 대한 정보를 제공합니다. 주요 내용은 다음과 같습니다:\n\n1. 역사: 2차 세계대전 이후 중요 역할을 했으나, 자가용 보급과 경제 발전으로 인해 1980년대부터 감소했습니다.\n\n2. 관련 법률: 2013년 '승객 운송에 관한 법률' 개정으로 고속버스 노선 신설이 자유로워졌습니다.\n\n3. 현황: 2013년 이후 급속한 성장"
+}

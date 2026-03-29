@@ -1,0 +1,11 @@
+{
+  "dataset": "narrativeqa",
+  "model_path": "/shared/home/aif/models/hf/Qwen2.5-7B-Instruct",
+  "ratio": 0.9,
+  "original_input_tokens": 7629,
+  "kept_input_tokens": 6866,
+  "output_tokens": 128,
+  "latency_s": 4.50809121131897,
+  "peak_vram_mib": 15846.38525390625,
+  "output_text": " was a very beautiful one.  “I’m glad I’ve seen him,” she said.  “I’m glad you’ve seen him, too,” I answered.  “I’m glad you’ve seen him, too,” she repeated, and then, as if she had forgotten something, she added: “I’m glad you’ve seen him, too, and I’m glad you’ve seen him, too, and I’m glad you’ve seen him, too.”  I was glad she had seen him, too, and I was glad she had seen him, too, and I was glad she had seen him, too."
+}

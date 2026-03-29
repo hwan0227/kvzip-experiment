@@ -1,0 +1,11 @@
+{
+  "dataset": "korquad",
+  "model_path": "/shared/home/aif/models/hf/Qwen2.5-7B-Instruct",
+  "ratio": 0.5,
+  "original_input_tokens": 8234,
+  "kept_input_tokens": 4117,
+  "output_tokens": 128,
+  "latency_s": 4.506963491439819,
+  "peak_vram_mib": 15320.931640625,
+  "output_text": "나 비행기보다 길어질 수 있다. 또한, 기차나 비행기와 달리 고속버스는 날씨에 따라 운행이 제한될 수 있다. 비가 오거나 눈이 내릴 때는 고속버스가 운행을 중단하거나 운행 시간이 늦어질 수 있다. 또한, 고속버스는 기차나 비행기와 달리 좌석이 좁아 편안한 여행을 즐기기 어렵다. 좌석 사이의 거리가 좁아 편"
+}

@@ -1,0 +1,11 @@
+{
+  "dataset": "korquad",
+  "model_path": "/shared/home/aif/models/hf/Qwen2.5-7B-Instruct",
+  "ratio": 0.3,
+  "original_input_tokens": 8234,
+  "kept_input_tokens": 2470,
+  "output_tokens": 128,
+  "latency_s": 4.203843832015991,
+  "peak_vram_mib": 15009.373046875,
+  "output_text": "년 1월 1일부터 적용된 새로운 법률은 고속버스 산업에 큰 변화를 가져왔다. 이 법률은 기존의 제약을 완화하여 새로운 사업자들이 시장에 진입할 수 있도록 했다. 이로 인해 플릭스부스(FlixBus)와 같은 신규 사업자들이 시장에 진입하여 다양한 노선을 제공하기 시작했다. 또한, 기존 사업자들도 노선 확장을 통해 시장 점유율을 높이려 노력하였다. </p> <p>현재"
+}

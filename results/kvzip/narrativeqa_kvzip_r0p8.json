@@ -1,0 +1,11 @@
+{
+  "dataset": "narrativeqa",
+  "model_name": "Qwen/Qwen2.5-7B-Instruct-1M",
+  "ratio": 0.8,
+  "prefill_time_s": 2.3433027267456055,
+  "prune_time_s": 0.17432212829589844,
+  "gen_time_s": 3.6208739280700684,
+  "total_time_s": 6.138498783111572,
+  "peak_vram_mib": 16020.005859375,
+  "output_text": "The passage is from Henry James's novel \"The Coxon Fund\" and revolves around the character Frank Saltram, a controversial and influential individual. The narrator reflects on his acquaintance with Saltram and the impact he had on various people, including the Mulvilles and George Gravener. Saltram is described as a brilliant but unreliable speaker who is heavily supported by the Mulvilles, despite his personal failings and financial issues. The narrator also discusses Saltram's relationship with his wife, who is portrayed as wronged and resentful. The passage highlights the complex dynamics between Saltram and those around him, particularly focusing on the narrator's role as someone who has both admired and criticized Saltram throughout their association."
+}
