@@ -1,22 +1,0 @@
-Sliding Window Attention is enabled but not implemented for `sdpa`; unexpected results may be encountered.
-[INFO] Loading model from: /shared/home/aif/models/hf/Qwen2.5-7B-Instruct
-Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:01<00:03,  1.09s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:01<00:01,  1.31it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:02<00:00,  1.53it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.76it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:02<00:00,  1.55it/s]
-/shared/home/aif/miniconda3/envs/kvzip_env/lib/python3.10/site-packages/transformers/generation/configuration_utils.py:631: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.7` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
-  warnings.warn(
-/shared/home/aif/miniconda3/envs/kvzip_env/lib/python3.10/site-packages/transformers/generation/configuration_utils.py:636: UserWarning: `do_sample` is set to `False`. However, `top_p` is set to `0.8` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `top_p`.
-  warnings.warn(
-/shared/home/aif/miniconda3/envs/kvzip_env/lib/python3.10/site-packages/transformers/generation/configuration_utils.py:653: UserWarning: `do_sample` is set to `False`. However, `top_k` is set to `20` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `top_k`.
-  warnings.warn(
-[INFO] input_tokens = 7629
-
-[RESULT]
-{
-  "dataset": "narrativeqa",
-  "model_path": "/shared/home/aif/models/hf/Qwen2.5-7B-Instruct",
-  "input_tokens": 7629,
-  "output_tokens": 128,
-  "latency_s": 4.678457975387573,
-  "peak_vram_mib": 15992.59814453125,
-  "output_text": "The provided text is a excerpt from the novel \"The Coxon Fund\" by Henry James. Here's a brief summary:\n\n1. **Introduction**: The narrator reflects on meeting Frank Saltram, a charismatic and influential figure, during a dinner party hosted by the Mulvilles. Saltram is described as having a remarkable gift and a unique personality.\n\n2. **First Encounter**: The narrator and George Gravener discuss Saltram after the dinner. Gravener expresses skepticism about Saltram's authenticity, viewing him as a fraud created by the Mulvilles. The narrator disagrees, defending Saltram's value and potential.\n\n3. **"
-}
-[SAVED] /shared/home/aif/kvbench_repro/results/baseline/narrativeqa_baseline.json
